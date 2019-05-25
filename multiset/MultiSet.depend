@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1558473974 source:f:\fmi\poo\multiset\main.cpp
+	<iostream>
+	<assert.h>
+	"Multiset.h"
+
+1558473974 f:\fmi\poo\multiset\multiset.h
+	"Nod.h"
+
+1558473973 f:\fmi\poo\multiset\nod.h
+	<iostream>
+
